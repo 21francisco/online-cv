@@ -3,200 +3,210 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: false # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Francisco Severino
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: Rickyventura271@gmail.com
+    phone: 829-978-6503
+    citizenship: Dominican
+    linkedin: Francisco Severino
+    linkedinURI: https://www.linkedin.com/in/francisco-severino-3543151b8/
+    github: 21francisco
 
     languages:
       title: Languages
       info:
         - idiom: English
-          level: Native
-
-        - idiom: French
           level: Professional
 
         - idiom: Spanish
-          level: Professional
+          level: Native
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Java + JSF
           link:
 
-        - item: Snowboarding
+        - item: .NET Core
           link:
 
-        - item: Cooking
+        - item: Front End Development
+          link:
+        
+        - item: Node JS
+          link:
+        
+        - item: Angular
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a self-taught programmer who Do an excellent job and put all my potential for advancement and company development giving myself to the maximum, commit to my work demonstrate reliability and promises.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Systems Engineering
+        university: O&M University (9th Quarter)
+        time: 2018 - 2023
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          Systems engineering mainly focused on:
+            - Algorythms
+            - Problem Solving
+            - Relational Databases
+            - Infrastructure With Packet Tracer
+            - Systems Analysis
+            - Android Development
+            - Full Stack Development
+
+      - degree: Introduction to programming
+        university: CENTU
+        time: 2019 - 2020
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          An introductory course to learn the foundations of imperative programming using C# as the language to develop the practices. The syllabus of this course contains:
+            - Variables and data types
+            - Conditional structures
+            - Cycles
+            - Functions
+            - Object-oriented programming
+
+      - degree: Advanced English
+        university: APEC
+        time: 2018 - 2018
+        details: |
+          An English immersion program of 10 months with which I was able to obtain the necessary skills to speak English professionally:
+            - Grammar
+            - Written communication
+            - Conversation
+      
+      - degree: Learn ASP.NET Core MVC 6 Making Projects From Scratch
+        university: UDEMY
+        time: 2020 - Now
+        details: |
+          Know the fundamentals of enterprise web development with ASP NET and the MVC architecture pattern:
+            - To Understand the MVC web development pattern
+            - To Communicate with a SQL Server database using Dapper
+            - To Develop multiple web projects with MVC
+            - Publish MVC applications to Azure and IIS
+      
+      - degree: University Of Java
+        university: Udemy
+        time: 2020 - Now
+        details: |
+          A course that covers everything from the fundamentals of Java programming to the most advanced concepts of business development with Java EE:
+            - Create Web and Business Java applications with real skills to get opportunities in the job and professional market as a Java programmer.
+            - Master Java Enterprise technologies (Java EE or previously Java2EE) such as EJB's, JPA, Web Services, JSF, PrimeFaces. This level is known as Java Sr.
+            - Lay the groundwork to begin your certification preparation as a Java programmer.
+            - Master the fundamentals of Java, database connection, to the creation of Web applications with Servlets and JPS's. This level is known as Java Jr.
+            - At the end, they will master all the previous topics, since each level builds on the previous one to obtain the levels that the Java job market needs.
+
+      - degree: Angular University
+        university: Udemy
+        time: 2021 - 2021
+        details: |
+          A frontend course that covers from the fundamentals of angular to the most advanced concepts to develop any application with angular:
+            - To develop modern, complex, responsive and scalable web applications with Angular
+            - To fully understand the architecture behind an Angular application and how to use it
+            - To Become a Front End developer by learning the basics of Angular
+            - To will create single page applications (SPA-Single Page Application) with one of the most modern JavaScript frameworks that exist today
+      
+      - degree: Master in SQL Server, from zero to Professional Level
+        university: Udemy
+        time: 2020 - 2020
+        details: |
+          Take this course to learn SQL, Databases, Queries, Functions, Tables and Permissions. Design and Program an SQL Relational Database.
+            - To be clear about what a table is, what a field is, what a data type is and what its properties are.
+            - To learn solid concepts of structuring Tables, Views, Store Procedures, Triggers and Data Types.
+            - To know how to implement Restrictions. You will understand what a Primary Key (PK) and Foreign Key (FK) are. Optimal uses and configurations.
+            - To can easily create your own Databases for whatever you want.
+            - To know how to install and configure the SQL Server Engine on Windows.
+            - To learn to make queries between several tables in an easy and orderly way.
+            - To learn enough to be able to enter the workplace and work in the area of ​systems and database development.
+            - To master the use of Control Structures, Operators, Clauses, Sentences and Functions.
+            - To learn to fully use the Management Studio environment and its tools to manage solutions and projects.
+      
+      - degree: Java Server Faces
+        university: Luv2Code
+        time: 2022 - Now
+        details: |
+          Know the fundamentals of Server Side Front end development with JSF:
+            - Configure the Java Web SDK.
+            - Install Maven.
+            - Create a JSF project and work with components.
+
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Help Desk Assistant
+        time: 2021 - Current
+        company: OUTPLEX, Santo Domingo
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Help Desk Assistant for T Mobile:
+            - Troubleshooting with TVs, Smartphones, Tablets.
+      - role: Help Desk Assistant
+        time: 2021 - 2022
+        company: Acquire, Santo Domingo
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Help Desk Assistant for Verizon:
+            - Troubleshooting with land line, TVs, Smartphones, Tablets.
+      - role: Help Desk Assistant
+        time: 2021 - 2022
+        company: Alorica, Santo Domingo
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Help Desk Assistant for Samsung:
+            - Troubleshooting with land line, TVs, Smartphones, Tablets.
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      These are just a few projects that I've been working on
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Movie Catalogue
+        tagline: "A console application to have a movie catalogue using Java 8."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Run In Groop App
+        tagline: "An ASP NET MVC crud web application for marathones. This application has a file uploading capability."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Inventory Application
+        tagline: "An inventory application using to have a maintenance of many inventories using Angular 12."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Pokedex Web API
+        tagline: "An intermediate web API for a Pokedex web application using NET Core."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Computers E Commerce Application
+        tagline: "An e commerce application using Java 8."
 
 skills:
-    title: Skills &amp; Proficiency
+    title: These are my skills
 
     toolset:
-      - name: Python & Django
+      - name: Java + Servlets & JSP
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Java + JSF
         level: 98%
-
+      
+      - name: ASP NET CORE
+        level: 98%
+      
+      - name: ASP NET MVC
+        level: 98%
+        
       - name: Angular
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: HTML + CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Javascript + Jquery
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Bootstrap
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
