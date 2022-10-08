@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Francisco Severino
     tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: Rickyventura271@gmail.com
@@ -187,25 +187,25 @@ skills:
 
     toolset:
       - name: Java + Servlets & JSP
-        level: 98%
+        level: 35%
 
       - name: Java + JSF
-        level: 98%
+        level: 40%
       
       - name: ASP NET CORE
-        level: 98%
+        level: 35%
       
       - name: ASP NET MVC
-        level: 98%
+        level: 35%
         
       - name: Angular
         level: 98%
 
       - name: HTML + CSS
-        level: 95%
+        level: 60%
 
       - name: Javascript + Jquery
-        level: 85%
+        level: 45%
 
       - name: Bootstrap
         level: 60%
